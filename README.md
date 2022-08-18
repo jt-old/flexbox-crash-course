@@ -4,27 +4,27 @@ The contents of this course are derived from the CSS Crash Course located on The
 
 ## Timestamps
 
-00:00 Introduction
-00:28 Before we begin
-02:01 What is Flebox?
-04:00 Terminology
-06:16 Flex container properties
-08:01 Setup
-10:06 display
-12:13 flex-direction
-15:01 flex-wrap
-19:37 flex-flow
-21:23 gap properties
-23:22 justify-content
-28:13 align-items
-32:28 align-content
-36:36 Flex item properties
-37:46 order
-40:12 flex-grow
-44:16 flex-shrink
-47:58 flex-basis
-50:37 flex
-52:05 align-self
+00:00 Introduction\
+00:28 Before we begin\
+02:01 What is Flebox?\
+04:00 Terminology\
+06:16 Flex container properties\
+08:01 Setup\
+10:06 display\
+12:13 flex-direction\
+15:01 flex-wrap\
+19:37 flex-flow\
+21:23 gap properties\
+23:22 justify-content\
+28:13 align-items\
+32:28 align-content\
+36:36 Flex item properties\
+37:46 order\
+40:12 flex-grow\
+44:16 flex-shrink\
+47:58 flex-basis\
+50:37 flex\
+52:05 align-self\
 
 I found a lot of value in the crash courses when I was first beginning to code and took extensive notes as I followed along. So, in coder fashion, I made websites out of the content and depoyed them through [Netlify](https://app.netlify.com/). Link to the live site is located [Here]().
 
