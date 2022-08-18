@@ -6,7 +6,7 @@ The contents of this course are derived from the CSS Crash Course located on The
 
 00:00 Introduction\
 00:28 Before we begin\
-02:01 What is Flebox?\
+02:01 What is Flexbox?\
 04:00 Terminology\
 06:16 Flex container properties\
 08:01 Setup\
